@@ -2,10 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main - Entry point
-  *Disciption: 'Check for number if it is positive or negative'
-  *Return: always 0
-  */
+*main - Entry point
+*Return: always 0 (success)
+ */
 int main(void)
 {
 	int n;
