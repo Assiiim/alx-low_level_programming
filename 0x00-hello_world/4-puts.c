@@ -5,7 +5,7 @@
 */
 int main(void)
 /**
-*main - a program that prints a line with puts function
+*main: a program that prints a line with puts function
 */
 {
 	puts("\"Programming is like building a multilingual puzzle");
